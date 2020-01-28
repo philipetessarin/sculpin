@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[Sculpin Blog Skeleton]]></title>
+    <link href="https://philipetessarin.github.io/sculpin/blog/categories/various.xml" rel="self"/>
+    <link href="https://philipetessarin.github.io/sculpin/"/>
+    <updated>2020-01-28T16:06:21-03:00</updated>
+    <id>https://philipetessarin.github.io/sculpin/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[My New Post!]]></title>
+            <link href="https://philipetessarin.github.io/sculpin/blog/2020/01/28/my-first-post/"/>
+            <updated>2020-01-28T00:00:00-03:00</updated>
+            <id>https://philipetessarin.github.io/sculpin/blog/2020/01/28/my-first-post/</id>
+            <content type="html"><![CDATA[<h1 id="this-is-my-first-post-with-sculpin%21">This is my first post with Sculpin!</h1>
+
+<p>... and this is an example content ...</p>
+]]></content>
+        </entry>
+    </feed>
